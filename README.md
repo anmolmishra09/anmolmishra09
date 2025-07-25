@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anmol Mishra. <img align='right' src="https://miro.medium.com/max/850/1*IRGHmiGsa16stedQvIaZfw.gif" width="280">
+- 👋 Hi, I’m Anmol Mishra. <img align='right' src="    https://i.giphy.com/jBOOXxSJfG8kqMxT11.webp" width="280">
 - 🤓 I am persuing B.Tech in Computer Science And Engineering from Dr. A. P. J. Abdul Kalam Technical University, Lucknow(2023-2026).
 - 🚀 Technologies
   - Python, Java

@@ -17,4 +17,4 @@
 - Coding profiles
   - [Leetcode](https://leetcode.com/anmolmishra09/)
  - 🖥️ Work Sample
-    - [Portfolio](https://anmolmishra09.vercel.app/)
+    - [Portfolio](https://anmolmishra09.github.io/anmolmishra.me/)

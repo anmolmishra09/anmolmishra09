@@ -77,9 +77,11 @@
     <img alt="Qwiklab" src="https://img.shields.io/badge/Youtube-dc143c.svg?style=for-the-badge&logo=Qwiklabs&logoColor=black">
   </a>
 
-  <a href="https://instagram.com/anmolmishra09" target="_blank">
-    <img alt="Qwiklab" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg">
-  </a>
+ <a href="https://instagram.com/anmolmishra09" target="_blank">
+  <img 
+    alt="Instagram" 
+    src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
   
 

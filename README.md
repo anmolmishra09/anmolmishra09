@@ -30,7 +30,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Education:** Final year B.Tech student focused on building performant software solutions.
+- 🎓 **Education:** B.Tech CSE focused on building performant software solutions.
 - 🔭 **Focus Areas:** Full-Stack Web Development, Scalable Backend Services, and Applied AI/ML.
 - 🌱 **Currently Learning:** Advanced Machine Learning architectures, Cloud Infrastructure (GCP), and Next.js optimization.
 - 💡 **Passions:** Solving complex algorithmic problems, contributing to open-source software, and continuous learning.
